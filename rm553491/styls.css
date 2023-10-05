@@ -1,0 +1,41 @@
+.menu > ul {
+
+    display: flex;
+
+    list-style-type: none;
+
+    margin: 0;
+
+    background-color: rgb(235, 0, 0);
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ 
+
+}
+
+ 
+
+.menu > ul > li {
+
+    padding: 10px;
+
+}
+
+ 
+
+ 
+
+ 
+
+@media screen and (max-width: 600px){
+
+    ul {
+
+        flex-direction: column;
+
+    }
+
+   
+
+}
