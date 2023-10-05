@@ -1,1 +1,1 @@
-# Responsive - USing @media
+# Responsive - Using @media
